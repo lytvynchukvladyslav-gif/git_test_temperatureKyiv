@@ -1,13 +1,13 @@
-January
-February
-March
-April
-May
-June
-Jule
-August
-September
-October
-November
-December
+January  -5
+February -10
+March +3
+April +12
+May +22
+June +25
+July +31
+August +38
+September +15
+October +10
+November +2
+December -2
 All year
