@@ -11,3 +11,5 @@ October +10
 November +2
 December -2
 All year
+Spring months: March, April, May
+Average spring temperature: +12
